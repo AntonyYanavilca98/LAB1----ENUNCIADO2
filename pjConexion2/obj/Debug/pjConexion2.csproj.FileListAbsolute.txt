@@ -1,0 +1,8 @@
+C:\Cursos\6TO ciclo\DAWAV\pjConexion2\pjConexion2\bin\Debug\pjConexion2.exe.config
+C:\Cursos\6TO ciclo\DAWAV\pjConexion2\pjConexion2\bin\Debug\pjConexion2.exe
+C:\Cursos\6TO ciclo\DAWAV\pjConexion2\pjConexion2\bin\Debug\pjConexion2.pdb
+C:\Cursos\6TO ciclo\DAWAV\pjConexion2\pjConexion2\obj\Debug\pjConexion2.frmClientes.resources
+C:\Cursos\6TO ciclo\DAWAV\pjConexion2\pjConexion2\obj\Debug\pjConexion2.Properties.Resources.resources
+C:\Cursos\6TO ciclo\DAWAV\pjConexion2\pjConexion2\obj\Debug\pjConexion2.csproj.GenerateResource.cache
+C:\Cursos\6TO ciclo\DAWAV\pjConexion2\pjConexion2\obj\Debug\pjConexion2.exe
+C:\Cursos\6TO ciclo\DAWAV\pjConexion2\pjConexion2\obj\Debug\pjConexion2.pdb
